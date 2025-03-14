@@ -26,13 +26,13 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 <p align="center">
-<a href='https://gay-loise-nadeen-md-v2-session-id-3a7a350b.koyeb.app/' target="_blank"><img alt='GET YOUR SESSION ID' src='https://img.shields.io/badge/-Get Your Session Id-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://nadeen-md-session-web.koyeb.app/' target="_blank"><img alt='GET YOUR SESSION ID' src='https://img.shields.io/badge/-Get Your Session Id-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://gay-loise-nadeen-md-v2-session-id-3a7a350b.koyeb.app/pair' target="_blank"><img alt='Pair Code ' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://nadeen-md-session-web.koyeb.app//pair' target="_blank"><img alt='Pair Code ' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://gay-loise-nadeen-md-v2-session-id-3a7a350b.koyeb.app/qr' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Qr Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://nadeen-md-session-web.koyeb.app/qr' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Qr Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
@@ -64,7 +64,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Nadeenpoorna-editx/NADEEN-MD&template=https://github.com/Nadeenpoorna-editx/NADEEN-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Nadeenpoorna-free/NADEEN-MD&template=https://github.com/Nadeenpoorna-free/NADEEN-MD.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
@@ -76,7 +76,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
 
 <p align="center">
-<a href='https://github.com/Nadeenpoorna-editx/NADEEN-MD/blob/main/deploy-on-vps.md' target="_blank"><img alt='Vps' src='https://img.shields.io/badge/-Vps Deploy-blue?style=for-the-badge&logo=Vps&logoColor=white'/< width=150 height=28/p></a> <h6>
+<a href='https://github.com/Nadeenpoorna-free/NADEEN-MD/blob/main/deploy-on-vps.md' target="_blank"><img alt='Vps' src='https://img.shields.io/badge/-Vps Deploy-blue?style=for-the-badge&logo=Vps&logoColor=white'/< width=150 height=28/p></a> <h6>
 
   
 
